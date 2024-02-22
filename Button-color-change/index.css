@@ -1,0 +1,19 @@
+.container {
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 330px;
+}
+
+#button-1 {
+  padding: 40px;
+}
+#button-2 {
+  padding: 40px;
+}
+#button-3 {
+  padding: 40px;
+}
+#button-4 {
+  padding: 40px;
+}
