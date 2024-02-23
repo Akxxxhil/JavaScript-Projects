@@ -1,0 +1,23 @@
+
+#main{
+    display: flex;
+    justify-content: center;
+    margin-top: 280px;
+}
+.buttons{ 
+     
+    padding: 30px;
+    margin: 80px;
+    box-shadow: 10px 5px 5px red;
+    
+}
+
+#show{
+        display: flex;
+        justify-content: center;
+        margin-top: 80px;
+}
+
+#inc, #dec{
+    font-size: 70px;;
+}
