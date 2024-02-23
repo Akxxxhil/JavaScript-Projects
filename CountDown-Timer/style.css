@@ -1,0 +1,16 @@
+.conatiner{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    margin: 50px;
+}
+#input-1{
+    font-size: 30px;
+}
+#button-1{
+    padding: 15px;
+    margin: 10px;
+}
